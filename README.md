@@ -14,14 +14,11 @@ Capacitandome en las siguientes tecnologias:
 📍Project Management: Trello, Slack.
 📍Version control: Git, Github.
 
-| Front-End| Back-End|Data Base |
-
-| ----- | ---- | ---- |
-
-| CSS | Node JS | Sql |
-| React | Express | 
-| Redux | 
-
+| Front-End | Back-End | Data Base |
+| --------- | -------- | --------- |
+| CSS       | Node JS  | SQL       |
+| React     | Express  |           |
+| Redux     |          |           |
 
 
 ⚠️Estoy 100% predispuesta al crecimiento en un ambiente de compañerismo y comunidad, entusiasmada en adquirir conocimientos nuevos y seguir desarrollando mis habilidades duras y blandas.
