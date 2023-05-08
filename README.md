@@ -59,6 +59,11 @@ Realice mi formacion en #Henry en modalidad full time. Llenando mis dias de codi
 ![Dogs...](B.png)
 ![Form...](C.png)
 
+<h2>Api Rick and Morty</h2>
+
+<!-- [Link deploy 📍](https://deploy-pi-front.vercel.app/) -->
+![Landing...](1a.png)
+![Cards...](1b.png)
 
 
 Gracias por la atención y haber llegado hasta aqui!!!
