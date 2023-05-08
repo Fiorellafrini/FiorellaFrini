@@ -27,7 +27,8 @@ Me caracterizo por ser responsable y dar lo mejor de mi ante los objetivos que t
 
 
 Mis Proyectos
-
+E-commerce The Wave Nautical Store
+![Landing...](1.png)
 
 
 
