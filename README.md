@@ -31,16 +31,11 @@ Capacitandome en las siguientes tecnologias:
 Me caracterizo por ser responsable y dar lo mejor de mi ante los objetivos que tengo por delante.
 
 
- <!-- **Contacto:** -->
-<!-- 📫 fiorella_frini@hotmail.com
-💬 +543541570774
-📄 https://www.linkedin.com/in/fiorella-belen-frini-697442a7/ -->
+ **Contacto:** 
+<h1>📫 fiorella_frini@hotmail.com</h1>
+<h1>💬 +543541570774</h1>
+<h1>📄 https://www.linkedin.com/in/fiorella-belen-frini-697442a7/</h1>
 
-<h3 align="left">Conéctese conmigo:</h3>
-<p align="left">
-<a href="https:/ /linkedin.com/in/https://www.linkedin.com/in/fiorella-belen-frini-697442a7/" target="blank"><img align="center" src="https://raw. githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fiorella-belen -frini-697442a7/" height="30" width="40" /></a>
-<a href="https://discord.gg/Fiorella Frini#3584" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fiorella Frini#3584" height="30" width="40" /></a>
-</p>
 
 **Mis Proyectos:**
 ⚡E-commerce The Wave Nautical Store
