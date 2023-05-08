@@ -32,13 +32,13 @@ Me caracterizo por ser responsable y dar lo mejor de mi ante los objetivos que t
 
 
  **Contacto:** 
-<h1>📫 fiorella_frini@hotmail.com</h1>
-<h1>💬 +543541570774</h1>
-<h1>📄 https://www.linkedin.com/in/fiorella-belen-frini-697442a7/</h1>
+<p>📫 fiorella_frini@hotmail.com</p>
+<p>💬 +543541570774</p>
+<p>📄 https://www.linkedin.com/in/fiorella-belen-frini-697442a7/</p>
 
 
 **Mis Proyectos:**
-⚡E-commerce The Wave Nautical Store
+<h2>E-commerce The Wave Nautical Store</h2>
 [Deploy](https://proyecto-the-wave-client-1kip.vercel.app/)
 ![Landing...](1.png)
 ![Products..](2.png)
@@ -46,7 +46,7 @@ Me caracterizo por ser responsable y dar lo mejor de mi ante los objetivos que t
 ![Dashboard...](4.png)
 
 
-⚡Api Dogs
+<h2>Api Dogs</h2>
 [Deploy](https://deploy-pi-front.vercel.app/)
 ![Landing...](A.png)
 ![Dogs...](B.png)
