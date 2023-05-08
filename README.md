@@ -1,6 +1,6 @@
 
 
-*Mi nombre es Fiorella Frini, soy Desarrolladora Full Stack, tengo 31 años y vivo en Santiago del Estero, Argentina. Soy nacida en Argentina, pero cuento con ciudadanía Argentina e Italiana. El mundo entero es mi techo!!🌎*
+<h3>*Mi nombre es Fiorella Frini, soy Desarrolladora Full Stack, tengo 31 años y vivo en Santiago del Estero, Argentina. Soy nacida en Argentina, pero cuento con ciudadanía Argentina e Italiana. El mundo entero es mi techo!!🌎*</h3>
 
 🚀La programacion entro en mi vida por el deseo de crecer, indagar, investigar y sumergirme en la tecnologia... en este mundo que transformo mis dias y los lleno de aprendizajes y desafios. 
 
@@ -31,14 +31,16 @@ Capacitandome en las siguientes tecnologias:
 Me caracterizo por ser responsable y dar lo mejor de mi ante los objetivos que tengo por delante.
 
 
- **Contacto:** 
+ <h1>Contacto:</h1>
 <p>📫 fiorella_frini@hotmail.com</p>
 <p>💬 +543541570774</p>
 <p>📄 https://www.linkedin.com/in/fiorella-belen-frini-697442a7/</p>
 
 
-**Mis Proyectos:**
+<h1>Mis Proyectos:</h1>
+
 <h2>E-commerce The Wave Nautical Store</h2>
+
 [Deploy](https://proyecto-the-wave-client-1kip.vercel.app/)
 ![Landing...](1.png)
 ![Products..](2.png)
@@ -47,6 +49,7 @@ Me caracterizo por ser responsable y dar lo mejor de mi ante los objetivos que t
 
 
 <h2>Api Dogs</h2>
+
 [Deploy](https://deploy-pi-front.vercel.app/)
 ![Landing...](A.png)
 ![Dogs...](B.png)
