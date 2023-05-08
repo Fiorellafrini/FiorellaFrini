@@ -19,13 +19,13 @@ Capacitandome en las siguientes tecnologias:
 
 Me caracterizo por ser responsable y dar lo mejor de mi ante los objetivos que tengo por delante.
 
----------------------------------------------------------------------------------------------------------------------------------
+
  📫 Contacto:
 ->Email: fiorella_frini@hotmail.com
 ->Teléfono: +543541570774
 ->Linkedin: https://www.linkedin.com/in/fiorella-belen-frini-697442a7/
 
-----------------------------------------------------------------------------------------------------------------------------------
+
 Mis Proyectos
 
 
