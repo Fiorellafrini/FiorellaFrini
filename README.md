@@ -10,7 +10,7 @@ Dicha profesión me permitió adquirir destrezas blandas útiles y favorables pa
  <!-- el luchar por la excelencia, el liderazgo, el poder de empoderarse ante adversidades y problemáticas, el dominio y organización de grupos y el desarrollo de la creatividad...!  -->
 Y asi es como la capacidad de moverme en todo aspecto de mi vida junto con el deseo de aprender me hizo sumergir en este mundo que me encanto!!! y me desafio...!
 <hr></hr>
-Realice mi formacion en #Henry en modalidad full time. Llenando mis dias de codigo y de disciplina.
+Realice mi formacion en #Henry en modalidad full time. Llenando mis dias de codigo y disciplina.
 
 <h1>Tecnologias:</h1>
 <!-- 📍Programming language: JavaScript. -->
@@ -30,7 +30,7 @@ Realice mi formacion en #Henry en modalidad full time. Llenando mis dias de codi
 
 
 
-*Estoy 100% predispuesta al crecimiento en un ambiente de compañerismo y comunidad, entusiasmada en adquirir conocimientos nuevos y seguir desarrollando mis habilidades duras y blandas.*
+*Estoy 100% dispuesta al crecimiento en un ambiente de compañerismo y comunidad, entusiasmada en adquirir conocimientos nuevos y seguir desarrollando mis habilidades duras y blandas.*
 
 *Me caracterizo por ser responsable y dar lo mejor de mi ante los objetivos que tengo por delante.*
 
@@ -65,7 +65,7 @@ Realice mi formacion en #Henry en modalidad full time. Llenando mis dias de codi
 ![Landing...](1a.png)
 ![Cards...](1b.png)
 
-
+<!-- 
 Gracias por la atención y haber llegado hasta aqui!!!
 
-Atte. Fiorella.
+Atte. Fiorella. -->
