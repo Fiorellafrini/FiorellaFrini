@@ -7,19 +7,20 @@ Dicha profesión me permitió adquirir destrezas con respecto al trabajo en equi
 Y asi es como el deseo de aprender y la capacidad de moverme en todo aspecto de mi vida me hizo sumergirme en este mundo que me encanto!!! y me desafio...! Realice mi formacion en #Henry en modalidad full time. Llenando mis dias de codigo y de disciplina.
 
 Capacitandome en las siguientes tecnologias:
-📍Programming language: JavaScript.
-📍Web Technologies: NodeJS, CSS, HTML.
-📍Framework/ Libraries: ReactJS, Redux, Express.
-📍Database: PostgreSQL, Sequelize.
-📍Project Management: Trello, Slack.
-📍Version control: Git, Github.
+<!-- 📍Programming language: JavaScript. -->
+<!-- 📍Web Technologies: NodeJS, CSS, HTML. -->
+<!-- 📍Framework/ Libraries: ReactJS, Redux, Express. -->
+<!-- 📍Database: PostgreSQL, Sequelize. -->
+<!-- 📍Project Management: Trello, Slack. -->
+<!-- 📍Version control: Git, Github. -->
 
-| Front-End | Back-End | Data Base |
-| --------- | -------- | --------- |
-| CSS       | Node JS  | SQL       |
-| React     | Express  |           |
-| Redux     |          |           |
-
+| Front-End | Back-End | Data Base |  Gestion  |
+| --------- | -------- | --------- | --------- |
+| CSS       | NodeJS   | SQL       |  Trello   | 
+| ReactJS   | Express  | PostgreSQL|  Slack    |
+| Redux     |          |           |  Github   |
+| HTML      |          |           |           |
+| JavaScrip |          |           |           |
 
 ⚠️Estoy 100% predispuesta al crecimiento en un ambiente de compañerismo y comunidad, entusiasmada en adquirir conocimientos nuevos y seguir desarrollando mis habilidades duras y blandas.
 
