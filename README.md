@@ -4,8 +4,10 @@
 🚀La programacion entro en mi vida por el deseo de crecer, indagar, investigar y sumergirme en la tecnologia... en este mundo que transformo mis dias y los lleno de aprendizajes y desafios. 
 
 🏀Además de la tecnología... mi pasión es la actividad física y la naturaleza. Soy Profesora de Educación Física.
-Dicha profesión me permitió adquirir destrezas con respecto al trabajo en equipo, el luchar por la excelencia, el liderazgo, el poder de empoderarse ante adversidades y problemáticas, el dominio y organización de grupos y el desarrollo de la creatividad...! 
-Y asi es como el deseo de aprender y la capacidad de moverme en todo aspecto de mi vida me hizo sumergirme en este mundo que me encanto!!! y me desafio...! Realice mi formacion en #Henry en modalidad full time. Llenando mis dias de codigo y de disciplina.
+Dicha profesión me permitió adquirir destrezas blandas útiles y favorables para el trabajo en equipo.
+ <!-- el luchar por la excelencia, el liderazgo, el poder de empoderarse ante adversidades y problemáticas, el dominio y organización de grupos y el desarrollo de la creatividad...!  -->
+Y el deseo de aprender y la capacidad de moverme en todo aspecto de mi vida me hizo sumergirme en este mundo que me encanto!!! y me desafio...!
+Realice mi formacion en #Henry en modalidad full time. Llenando mis dias de codigo y de disciplina.
 
 <h1>Tecnologias:</h1>
 <!-- 📍Programming language: JavaScript. -->
