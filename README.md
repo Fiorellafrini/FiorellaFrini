@@ -6,7 +6,7 @@
 🏀Además de la tecnología... mi pasión es la actividad física y la naturaleza. Soy Profesora de Educación Física.
 Dicha profesión me permitió adquirir destrezas blandas útiles y favorables para el trabajo en equipo.
  <!-- el luchar por la excelencia, el liderazgo, el poder de empoderarse ante adversidades y problemáticas, el dominio y organización de grupos y el desarrollo de la creatividad...!  -->
-Y el deseo de aprender y la capacidad de moverme en todo aspecto de mi vida me hizo sumergirme en este mundo que me encanto!!! y me desafio...!
+Y asi es como la capacidad de moverme en todo aspecto de mi vida junto con el deseo de aprender me hizo sumergir en este mundo que me encanto!!! y me desafio...!
 Realice mi formacion en #Henry en modalidad full time. Llenando mis dias de codigo y de disciplina.
 
 <h1>Tecnologias:</h1>
