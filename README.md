@@ -1,6 +1,6 @@
 
 
-<h3>*Mi nombre es Fiorella Frini, soy Desarrolladora Full Stack, tengo 31 años y vivo en Santiago del Estero, Argentina. Soy nacida en Argentina, pero cuento con ciudadanía Argentina e Italiana. El mundo entero es mi techo!!🌎*</h3>
+*Mi nombre es Fiorella Frini, soy Desarrolladora Full Stack, tengo 31 años y vivo en Santiago del Estero, Argentina. Soy nacida en Argentina, pero cuento con ciudadanía Argentina e Italiana. El mundo entero es mi techo!!🌎*
 
 🚀La programacion entro en mi vida por el deseo de crecer, indagar, investigar y sumergirme en la tecnologia... en este mundo que transformo mis dias y los lleno de aprendizajes y desafios. 
 
