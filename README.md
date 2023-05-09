@@ -44,7 +44,7 @@ Realice mi formacion en #Henry en modalidad full time. Llenando mis dias de codi
 <h1>Mis Proyectos:</h1>
 
 <h2>E-commerce The Wave Nautical Store</h2>
-Participación en equipo de desarrollo ágil con metodología SCRUM en sprints de una semana presentando a un Product Owner avances en el desarrollo de una app, cuenta con funcionalidades como CRUD, auth, pasarelas de pago, actualizacion de avances a traves de GITHUB, utilizando Trello y Discord. Tecnologías implementadas: React, Redux, Node, Sequelize, CSS, Express, MercadoPago, Cloudinary, SweetAlert, ChartJS.
+Participación en equipo de desarrollo ágil con metodología SCRUM en sprints de una semana presentando a un Product Owner avances en el desarrollo de la app, cuenta con funcionalidades como CRUD, auth, pasarelas de pago, actualizacion de avances a traves de GITHUB, utilizando Trello y Discord. Tecnologías implementadas: React, Redux, Node, Sequelize, CSS, Express, MercadoPago, Cloudinary, SweetAlert, ChartJS.
 
 [Link deploy 📍](https://proyecto-the-wave-client-1kip.vercel.app/)
 ![Landing...](1.png)
@@ -62,6 +62,7 @@ Tecnologías implementadas: React, Redux, Node, Sequelize, CSS, Express.
 ![Form...](C.png)
 
 <h2>Api Rick and Morty</h2>
+Tecnologías implementadas: React, Redux, Node, Sequelize, CSS, Express.
 
 <!-- [Link deploy 📍](https://deploy-pi-front.vercel.app/) -->
 ![Landing...](1a.png)
