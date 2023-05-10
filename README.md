@@ -35,7 +35,7 @@ Realice mi formacion en #Henry en modalidad full time. Llenando mis dias de codi
 
 
  <h1>Contacto:</h1>
-<p>📫 fiorella_frini@hotmail.com</p>
+<p>📫 fiorella_frini_dev@hotmail.com</p>
 <p>💬 +543541570774 (Argentina) </p>
 <p>📄 https://www.linkedin.com/in/fiorella-belen-frini-697442a7/</p>
 
