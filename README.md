@@ -8,8 +8,8 @@ Dicha profesión me permitió adquirir destrezas blandas útiles y favorables pa
 Y asi es como la capacidad de moverme en todo aspecto de mi vida junto con el deseo de aprender me hizo sumergir en este mundo que me encanto y desafio.
 <hr></hr>
 Mi objetivo es seguir creciendo como desarrolladora web y expandir mis habilidades en nuevas tecnologías y herramientas.
+<hr></hr>
 
-En mi tiempo libre, disfruto explorando nuevas ideas 🎨 y creando experiencias de usuario atractivas e intuitivas 🤩. Además, estoy comprometida con la comunidad de código abierto y me gusta participar en eventos de tecnología y compartir mi conocimiento con otros 🌎.
 
 
 <h1>Tecnologias:</h1>
