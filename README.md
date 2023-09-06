@@ -1,15 +1,16 @@
+*Mi nombre es Fiorella Frini, soy Desarrolladora Full Stack, tengo 32 años y vivo en Santiago del Estero, Argentina.*
 
-*Mi nombre es Fiorella Frini, soy Desarrolladora Full Stack, tengo 31 años y vivo en Santiago del Estero, Argentina.*
-
-
-🚀La programacion entro en mi vida por el deseo de crecer, indagar, investigar y sumergirme en la tecnologia... en este mundo que transformo mis dias y los lleno de aprendizajes y desafios. 
+🚀Soy una programadora web Full Stack especializandose en Front End. Me apasiona trabajar en proyectos desafiantes y colaborar con otros desarrolladores 🤝 para crear soluciones innovadoras y útiles 💡.
 
 🏀Además de la tecnología... mi pasión es la actividad física y la naturaleza. Soy Profesora de Educación Física.
 Dicha profesión me permitió adquirir destrezas blandas útiles y favorables para el trabajo en equipo.
  <!-- el luchar por la excelencia, el liderazgo, el poder de empoderarse ante adversidades y problemáticas, el dominio y organización de grupos y el desarrollo de la creatividad...!  -->
-Y asi es como la capacidad de moverme en todo aspecto de mi vida junto con el deseo de aprender me hizo sumergir en este mundo que me encanto!!! y me desafio...!
+Y asi es como la capacidad de moverme en todo aspecto de mi vida junto con el deseo de aprender me hizo sumergir en este mundo que me encanto y desafio.
 <hr></hr>
-Realice mi formacion en #Henry en modalidad full time. Llenando mis dias de codigo y disciplina. Actualmente sigo formandome para crecer y reforzar conocimientos.
+Mi objetivo es seguir creciendo como desarrolladora web y expandir mis habilidades en nuevas tecnologías y herramientas.
+
+En mi tiempo libre, disfruto explorando nuevas ideas 🎨 y creando experiencias de usuario atractivas e intuitivas 🤩. Además, estoy comprometida con la comunidad de código abierto y me gusta participar en eventos de tecnología y compartir mi conocimiento con otros 🌎.
+
 
 <h1>Tecnologias:</h1>
 <!-- 📍Programming language: JavaScript. -->
@@ -32,6 +33,7 @@ Realice mi formacion en #Henry en modalidad full time. Llenando mis dias de codi
 *Estoy 100% dispuesta al crecimiento en un ambiente de compañerismo y comunidad, entusiasmada en adquirir conocimientos nuevos y seguir desarrollando mis habilidades duras y blandas.*
 
 *Me caracterizo por ser responsable y dar lo mejor de mi ante los objetivos que tengo por delante.*
+
 
 
  <h1>Contacto:</h1>
