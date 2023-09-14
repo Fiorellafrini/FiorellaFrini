@@ -60,14 +60,12 @@ Tecnologías implementadas: React, Redux, Node, Sequelize, CSS, Express.
 [Link deploy 📍](https://deploy-pi-front.vercel.app/)
 ![Landing...](A.png)
 ![Dogs...](B.png)
-![Form...](C.png)
 
 <h2>Api Rick and Morty</h2>
 Tecnologías implementadas: React, Redux, Node, Sequelize, CSS, Express.
 
 <!-- [Link deploy 📍](https://deploy-pi-front.vercel.app/) -->
 ![Landing...](1a.png)
-![Cards...](1b.png)
 
 <!-- 
 Gracias por la atención y haber llegado hasta aqui!!!
