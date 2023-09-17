@@ -48,24 +48,20 @@ Mi objetivo es seguir creciendo como desarrolladora web y expandir mis habilidad
 Participación en equipo de desarrollo ágil con metodología SCRUM en sprints de una semana presentando a un Product Owner avances en el desarrollo de la app, cuenta con funcionalidades como CRUD, auth, pasarelas de pago, dashboard, borrado logico, actualizacion de avances a traves de GITHUB, utilizando Trello y Discord. Tecnologías implementadas: React, Redux, Node, Sequelize, CSS, Express, MercadoPago, Cloudinary, SweetAlert, ChartJS.
 
 [Link deploy 📍](https://proyecto-the-wave-client-1kip.vercel.app/)
-![Landing...](1.png)
-![Products..](2.png)
-![Details...](3.png)
-![Dashboard...](4.png)
+
 
 
 <h2>Api Dogs</h2>
 Tecnologías implementadas: React, Redux, Node, Sequelize, CSS, Express.
 
 [Link deploy 📍](https://deploy-pi-front.vercel.app/)
-![Landing...](A.png)
-![Dogs...](B.png)
+
 
 <h2>Api Rick and Morty</h2>
 Tecnologías implementadas: React, Redux, Node, Sequelize, CSS, Express.
 
 <!-- [Link deploy 📍](https://deploy-pi-front.vercel.app/) -->
-![Landing...](1a.png)
+
 
 <!-- 
 Gracias por la atención y haber llegado hasta aqui!!!
