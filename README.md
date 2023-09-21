@@ -1,5 +1,6 @@
 <h1 align="center">Fiorella Frini</h1>
 <h3 align="center"> Full Stack Developer</h3>
+<P align="center">🖼https://https://portfolio-fiorella.vercel.app//
 
 🚀Me apasiona trabajar en proyectos desafiantes y colaborar con otros desarrolladores 🤝 para crear soluciones innovadoras y útiles 💡.
 
@@ -29,7 +30,6 @@ Y asi es como la capacidad de moverme en todo aspecto de mi vida junto con el de
 | JavaScrip |          |           |           |
 
 
-
 💥Mi objetivo es seguir creciendo como desarrolladora web y expandir mis habilidades en nuevas tecnologías y herramientas.
 
 
@@ -41,9 +41,3 @@ Y asi es como la capacidad de moverme en todo aspecto de mi vida junto con el de
 <p>💬 +543541570774 (Argentina) </p>
 <p>📄 https://www.linkedin.com/in/fiorella-belen-frini-697442a7/</p>
 <P>🖼https://https://portfolio-fiorella.vercel.app//
-
-
-<!-- 
-Gracias por la atención y haber llegado hasta aqui!!!
-
-Atte. Fiorella. -->
