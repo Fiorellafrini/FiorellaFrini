@@ -1,5 +1,5 @@
-<h1 align="center">Fiorella Frini</h1>
-<h3 align="center"> Full Stack Developer</h3>
+<h1>Fiorella Frini</h1>
+<h3> Full Stack Developer</h3>
 
 <h4 align="center">https://portfolio-fiorella.vercel.app </h4>
 
