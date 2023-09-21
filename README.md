@@ -8,11 +8,9 @@ Web Full Stack developer
 
 🚀Me apasiona trabajar en proyectos desafiantes y colaborar con otros desarrolladores 🤝 para crear soluciones innovadoras y útiles 💡.
 
-🏀Además de la tecnología... mi pasión es la actividad física y la naturaleza. Soy Profesora de Educación Física.
-Dicha profesión me permitió adquirir destrezas blandas útiles y favorables para el trabajo en equipo.
- <!-- el luchar por la excelencia, el liderazgo, el poder de empoderarse ante adversidades y problemáticas, el dominio y organización de grupos y el desarrollo de la creatividad...!  -->
-Y asi es como la capacidad de moverme en todo aspecto de mi vida junto con el deseo de aprender me hizo sumergir en este mundo que me encanto y desafio.
-<hr></hr>
+🏀Soy profesora de educacion fisica por lo que puedo aportar importantes habilidades sociales y comunitarias favoreciendo el buen trabajo en equipo. Cumpliendo con objetivos en un ambiente positivo y de crecimiento.
+
+La capacidad de moverme en todo aspecto de mi vida junto con el deseo de aprender me hizo sumergir en este mundo que me encanto y desafio a cada dia ser mejor y aportar mi granito de arena para el crecimiento y avance del mundo tecnologico.
 <hr></hr>
 
 
@@ -41,7 +39,7 @@ Mi objetivo es seguir creciendo como desarrolladora web y expandir mis habilidad
 
 
  <h1>Contacto:</h1>
-<p href="https://wa.me/+543541570774" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" width="40" style="margin: 10px" /></p>
-<p href="https://www.linkedin.com/in/fiorella-belen-frini-697442a7/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" style="margin: 10px"  /></p>
-<p href="mailto:fiorella_frini_dev@hotmail.com?Subject=Oferta%20de%20empleo" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="40" style="margin: 10px"  /></p>
+<p>📞Tel:+5493541570774</p>
+<p>📢Linkedin:https://www.linkedin.com/in/fiorella-belen-frini-697442a7/</p>
+<p>📑Email:fiorella_frini_dev@hotmail.com</p>
 <P>🖼https://portfolio-fiorella.vercel.app/</p>
