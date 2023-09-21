@@ -30,7 +30,7 @@ Y asi es como la capacidad de moverme en todo aspecto de mi vida junto con el de
 
 
 
-💥* Mi objetivo es seguir creciendo como desarrolladora web y expandir mis habilidades en nuevas tecnologías y herramientas.
+💥Mi objetivo es seguir creciendo como desarrolladora web y expandir mis habilidades en nuevas tecnologías y herramientas.
 
 
 
