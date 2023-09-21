@@ -1,4 +1,4 @@
-<h1 align="center"> Soy Fiorella Frini</h1>
+<h1 align="center">Fiorella Frini</h1>
 <h3 align="center"> Full Stack Developer</h3>
 
 🚀Me apasiona trabajar en proyectos desafiantes y colaborar con otros desarrolladores 🤝 para crear soluciones innovadoras y útiles 💡.
