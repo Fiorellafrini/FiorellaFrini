@@ -1,13 +1,11 @@
-<h1 align="center">¡Hola 👋, Soy Fiore! </h1>
+<h1 align="center"> Fiorella Frini </h1>
 
 <h2 align="center">
-🚀 Web Full Stack developer<br/> 
-🌎
+Web Full Stack developer
 </h2>
 
 <h4 align="center">https://portfolio-fiorella.vercel.app </h4>
 
-## Sobre mi 
 🚀Me apasiona trabajar en proyectos desafiantes y colaborar con otros desarrolladores 🤝 para crear soluciones innovadoras y útiles 💡.
 
 🏀Además de la tecnología... mi pasión es la actividad física y la naturaleza. Soy Profesora de Educación Física.
@@ -37,13 +35,13 @@ Y asi es como la capacidad de moverme en todo aspecto de mi vida junto con el de
 
 <hr></hr>
 
-💥Mi objetivo es seguir creciendo como desarrolladora web y expandir mis habilidades en nuevas tecnologías y herramientas.
+Mi objetivo es seguir creciendo como desarrolladora web y expandir mis habilidades en nuevas tecnologías y herramientas.
 
 <hr></hr>
 
 
  <h1>Contacto:</h1>
-<p href="https://wa.me/+543541570774" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" width="40" /></p>
+<p href="https://wa.me/+543541570774" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" width="40" style="margin: 10px" /></p>
 <p href="https://www.linkedin.com/in/fiorella-belen-frini-697442a7/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" style="margin: 10px"  /></p>
 <p href="mailto:fiorella_frini_dev@hotmail.com?Subject=Oferta%20de%20empleo" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="40" style="margin: 10px"  /></p>
 <P>🖼https://portfolio-fiorella.vercel.app/</p>
