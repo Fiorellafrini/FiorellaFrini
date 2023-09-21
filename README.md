@@ -1,6 +1,6 @@
 <h1 align="center">Fiorella Frini</h1>
 <h3 align="center"> Full Stack Developer</h3>
-<P align="center">🖼https://https://portfolio-fiorella.vercel.app//
+<P align="center">https://https://portfolio-fiorella.vercel.app//
 
 🚀Me apasiona trabajar en proyectos desafiantes y colaborar con otros desarrolladores 🤝 para crear soluciones innovadoras y útiles 💡.
 
