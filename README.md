@@ -6,14 +6,24 @@ Web Full Stack developer
 
 <h4 align="center">https://portfolio-fiorella.vercel.app </h4>
 
-🚀Me apasiona trabajar en proyectos desafiantes y colaborar con otros desarrolladores 🤝 para crear soluciones innovadoras y útiles 💡.
+Soy Desarrolladora Web Full Stack. 
 
-🏀Soy profesora de educacion fisica por lo que puedo aportar importantes habilidades sociales y comunitarias favoreciendo el buen trabajo en equipo. Cumpliendo con objetivos en un ambiente positivo y de crecimiento.
+<h2>Actualmente dedicándome al NoCode poniendo énfasis en 
+impulsar negocios, empresas y emprendimientos 
+con webs eficientes, funcionales y estéticas. </h2>
 
-La capacidad de moverme en todo aspecto de mi vida junto con el deseo de aprender me hizo sumergir en este mundo que me encanto y desafio a cada dia ser mejor y aportar mi granito de arena para el crecimiento y avance del mundo tecnologico.
+Soy responsable, con enfoque creativo y resolutivo.
+
+Mi objetivo es seguir creciendo y expandir mis habilidades a nuevas tecnologías y herramientas.
+
+
+
+
 <hr></hr>
 
-
+<h1>WORDPRESS</h1>
+<h2>Elementor</h2>
+<h1>Shopify</h1>
 
 <h1>Tecnologias:</h1>
 <!-- 📍Programming language: JavaScript. -->
