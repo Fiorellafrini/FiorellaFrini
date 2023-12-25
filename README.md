@@ -1,4 +1,4 @@
-<h1 align="center"> Fiorella Frini </h1>
+<h1 align="center"> Fiorella Belen Frini </h1>
 
 <h2 align="center">
 Desarrolladora web full stack
@@ -9,7 +9,7 @@ Desarrolladora web full stack
 Actualmente dedicándome al NoCode poniendo énfasis en impulsar negocios, empresas y emprendimientos con webs eficientes, funcionales y estéticas.
 
 <hr></hr>
-<h1>Tecnologias y dominios:</h1>
+<h1>Habilidades:</h1>
 
 📍Wordpress
 📍Elementor
