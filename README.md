@@ -6,7 +6,7 @@ Desarrolladora web full stack
 
 <h4 align="center">https://portfolio-fiorella.vercel.app </h4>
 
-Actualmente dedicándome al NoCode poniendo énfasis en impulsar negocios, empresas y emprendimientos con webs eficientes, funcionales y estéticas.
+Actualmente dedicándome al NoCode y LowCode poniendo énfasis en impulsar negocios, empresas y emprendimientos con webs eficientes, funcionales y estéticas.
 
 <hr></hr>
 <h1>Habilidades:</h1>
