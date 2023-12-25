@@ -8,25 +8,25 @@ Web Full Stack developer
 
 Soy Desarrolladora Web Full Stack. 
 
-<h2>Actualmente dedicándome al NoCode poniendo énfasis en 
+Actualmente dedicándome al NoCode poniendo énfasis en 
 impulsar negocios, empresas y emprendimientos 
-con webs eficientes, funcionales y estéticas. </h2>
+con webs eficientes, funcionales y estéticas.
 
-Soy responsable, con enfoque creativo y resolutivo.
 
-Mi objetivo es seguir creciendo y expandir mis habilidades a nuevas tecnologías y herramientas.
 
 
 
 
 <hr></hr>
 
-<h1>WORDPRESS</h1>
-<h2>Elementor</h2>
-<h1>Shopify</h1>
 
-<h1>Tecnologias:</h1>
-<!-- 📍Programming language: JavaScript. -->
+
+<h1>Tecnologias y dominios:</h1>
+
+📍Wordpress
+📍Elementor
+📍Shopify
+ 
 <!-- 📍Web Technologies: NodeJS, CSS, HTML. -->
 <!-- 📍Framework/ Libraries: ReactJS, Redux, Express. -->
 <!-- 📍Database: PostgreSQL, Sequelize. -->
@@ -49,7 +49,7 @@ Mi objetivo es seguir creciendo como desarrolladora web y expandir mis habilidad
 
 
  <h1>Contacto:</h1>
-<p>📞Tel:+5493541570774</p>
+<p>📞Tel:+34625572437</p>
 <p>📢Linkedin:https://www.linkedin.com/in/fiorella-belen-frini-697442a7/</p>
 <p>📑Email:fiorella_frini_dev@hotmail.com</p>
 <P>🖼https://portfolio-fiorella.vercel.app/</p>
