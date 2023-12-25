@@ -1,7 +1,7 @@
 <h1 align="center"> Fiorella Frini </h1>
 
 <h2 align="center">
-Web Full Stack developer
+Desarrolladora web full stack
 </h2>
 
 <h4 align="center">https://portfolio-fiorella.vercel.app </h4>
