@@ -16,6 +16,8 @@ Mi github esta inclinado a mi experiencia como programadora.
 📍Wordpress
 📍Elementor
 📍Shopify
+📍CANVA
+📍Dropshipping
  
 <!-- 📍Web Technologies: NodeJS, CSS, HTML. -->
 <!-- 📍Framework/ Libraries: ReactJS, Redux, Express. -->
@@ -33,7 +35,7 @@ Mi github esta inclinado a mi experiencia como programadora.
 
 <hr></hr>
 
-Mi objetivo es seguir creciendo como desarrolladora web y expandir mis habilidades en nuevas tecnologías y herramientas.
+
 
 <hr></hr>
 
