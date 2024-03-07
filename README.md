@@ -1,12 +1,14 @@
 <h1 align="center"> Fiorella Belen Frini </h1>
 
 <h2 align="center">
-Desarrolladora web full stack
+Desarrolladora web full stack / Social media marketing
 </h2>
 
 <h4 align="center">https://portfolio-fiorella.vercel.app </h4>
 
 Actualmente dedicándome al NoCode y LowCode poniendo énfasis en impulsar negocios, empresas y emprendimientos con webs eficientes, funcionales y estéticas.
+Amo ver crecer las ventas, los clientes y que todos ganemos! Me comprometo el 100% en los proyectos que formo parte.
+Mi github esta inclinado a mi experiencia como programadora.
 
 <hr></hr>
 <h1>Habilidades:</h1>
